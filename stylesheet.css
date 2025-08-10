@@ -1,0 +1,60 @@
+.pageTitle {
+    background-color: antiquewhite;
+    font-size: 72px;
+    font: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.about {
+    background-color: beige;
+    font-size: 22px;
+    font: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+.lessons {
+    background-color: beige;
+    font-size: 22px;
+    font: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+.bookLesson {
+    background-color: bisque;
+    font-size: 22px;
+    font: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-radius: 10;
+    border-style: solid;
+    border-color: rgb(248, 208, 160);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    width: 200px;
+    color: black;
+    text-decoration: none;
+}
+
+.material-symbols--arrow-back-rounded {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23000' d='m7.825 13l4.9 4.9q.3.3.288.7t-.313.7q-.3.275-.7.288t-.7-.288l-6.6-6.6q-.15-.15-.213-.325T4.426 12t.063-.375t.212-.325l6.6-6.6q.275-.275.688-.275t.712.275q.3.3.3.713t-.3.712L7.825 11H19q.425 0 .713.288T20 12t-.288.713T19 13z'/%3E%3C/svg%3E");
+    background-color: currentColor;
+    -webkit-mask-image: var(--svg);
+    mask-image: var(--svg);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100% 100%;
+    mask-size: 100% 100%;
+}
