@@ -51,6 +51,7 @@
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
+    width: 200px;
 }
 
 .material-symbols--arrow-back-rounded {
