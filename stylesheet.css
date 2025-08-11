@@ -51,7 +51,6 @@
     font: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
-    width: 200px;
 }
 
 .material-symbols--arrow-back-rounded {
@@ -66,13 +65,4 @@
     mask-repeat: no-repeat;
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
-}
-
-.formLabels {
-    float: left;
-}
-
-.requiredStar {
-    color: red;
-    float: right;
 }
