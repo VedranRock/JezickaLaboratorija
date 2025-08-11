@@ -66,3 +66,12 @@
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
 }
+
+.formLabels {
+    float: left;
+}
+
+.requiredStar {
+    color: red;
+    float: right;
+}
